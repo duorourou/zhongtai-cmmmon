@@ -33,8 +33,8 @@ dependencies {
 import com.thoughtworks.zhongtai.automation.common.zhongtai.*;
 
 @Solution(
-        name = "渠道中台线上贷解决方案",
-        description = "增加“贷款意向申请”、“申请贷款担保额度”、“贷款担保”等业务活动、业务服务、能力项与能力组件",
+        name = "xx中台线上贷解决方案",
+        description = "增加“意向申请”、“申请额度”、“担保”等业务活动、业务服务、能力项与能力组件",
         requirementType = SolutionRequirementType.MODIFY
 )
 class CreateOrderAbility {
